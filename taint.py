@@ -2,6 +2,8 @@ import ast
 import matplotlib.pyplot as plt
 from matplotlib.text import Text
 
+# переделать
+
 def visualize_ast(fpath, outpath):
     """
     Парсит Python-файл и строит визуализацию его AST с динамическим и компактным раскладом по X,
